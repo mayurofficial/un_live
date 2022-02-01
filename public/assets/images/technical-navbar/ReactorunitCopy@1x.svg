@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 64 (101010) - https://sketch.com -->
+    <title>5C49982C-8A4E-4F8D-9C39-3498AF5421C5@1x</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Style-Guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Aris-Brand-Design-Style-Guide" transform="translate(-127.000000, -8966.000000)">
+            <g id="Reactor-unit-Copy" transform="translate(123.000000, 8964.000000)">
+                <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                <g id="Group-7" transform="translate(4.000000, 2.000000)">
+                    <path d="M3.96926066,6.95652174 C6.86512539,6.95652174 10.066589,6.8901007 10.547217,6.95652174 C10.7884663,10.7451954 12.4014082,15.0930215 15.3860428,20 L0,20 C2.45859336,15.0930215 3.78168024,10.7451954 3.96926066,6.95652174 Z" id="Rectangle" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="Rectangle" stroke="#0089BF" stroke-width="0.5" fill="#FFFFFF" fill-rule="nonzero" stroke-linejoin="round" x="2.85103442" y="4.32005669" width="8.69565217" height="2.60869565"></rect>
+                    <path d="M1.7391305,0.869565235 C2.20584697,1.64542216 2.8554335,1.90331633 3.68789011,1.64324776 C4.93657501,1.2531449 5.35673271,1.64324776 5.63664971,2.41693028" id="Path-11" stroke="#FFFFFF" stroke-linecap="round" transform="translate(3.687890, 1.643248) rotate(15.000000) translate(-3.687890, -1.643248) "></path>
+                    <path d="M5.21739139,0.8695652 C5.68410786,1.64542212 6.33369439,1.90331629 7.166151,1.64324772 C8.4148359,1.25314486 8.8349936,1.64324772 9.1149106,2.41693024" id="Path-11" stroke="#FFFFFF" stroke-linecap="round" transform="translate(7.166151, 1.643248) rotate(19.000000) translate(-7.166151, -1.643248) "></path>
+                    <g id="Group-6" stroke-linejoin="round" transform="translate(4.214007, 11.305415)" fill="#0089BF" fill-rule="nonzero">
+                        <path d="M3.01615759,2.52996169 L2.02614851,0.580824048 C2.39899959,0.259337078 2.87175558,0.0985935936 3.44441648,0.0985935936 C4.01707738,0.0985935936 4.48983338,0.259337078 4.86268445,0.580824048 L3.91427052,2.56964036" id="Rectangle"></path>
+                        <path d="M4.59127844,5.60459166 L3.60126936,3.65545402 C3.97412044,3.33396705 4.44687643,3.17322356 5.01953734,3.17322356 C5.59219824,3.17322356 6.06495423,3.33396705 6.43780531,3.65545402 L5.48939137,5.64427033" id="Rectangle-Copy" transform="translate(5.019537, 4.408747) rotate(127.000000) translate(-5.019537, -4.408747) "></path>
+                        <path d="M1.57699982,5.49004562 L0.46956493,3.5820039 C0.842416009,3.26051693 1.315172,3.09977345 1.88783291,3.09977345 C2.46049381,3.09977345 2.9332498,3.26051693 3.30610088,3.5820039 L2.35768694,5.57082021" id="Rectangle-Copy-2" transform="translate(1.887833, 4.335297) rotate(-125.000000) translate(-1.887833, -4.335297) "></path>
+                        <circle id="Oval" stroke="#FFFFFF" stroke-width="0.5" cx="3.4728579" cy="3.25310724" r="1"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
